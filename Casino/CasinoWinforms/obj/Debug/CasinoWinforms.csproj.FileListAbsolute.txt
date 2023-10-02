@@ -1,0 +1,11 @@
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\bin\Debug\CasinoWinforms.exe.config
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\bin\Debug\CasinoWinforms.exe
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\bin\Debug\CasinoWinforms.pdb
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.csproj.AssemblyReference.cache
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.CasinoForm.resources
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.GameSelectionForm.resources
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.Properties.Resources.resources
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.csproj.GenerateResource.cache
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.csproj.CoreCompileInputs.cache
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.exe
+C:\Users\lbhheg2\source\repos\Casino\CasinoWinforms\obj\Debug\CasinoWinforms.pdb
